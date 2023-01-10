@@ -8,5 +8,6 @@ let y=10;
 let z=5;
 let x=y+z;
 
-let x=y*z;
+let x2=y*z;
+console.log(x2);
 
